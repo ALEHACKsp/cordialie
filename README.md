@@ -28,4 +28,5 @@ Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" <br/>
 # installation
 Installing is very simple, with 2 different methods. <br/>
 1. "git clone https://github.com/9socket/cordialie.git".<br/>
-2. Simply just download the .zip file.
+2. Simply just download the .zip file.<br/>
+And just incase you haven't realized, python is also required to run this script. [Download Python](https://www.python.org/downloads/)
