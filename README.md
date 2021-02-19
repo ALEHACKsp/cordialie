@@ -15,4 +15,19 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 • A load of small handy features, that may fit to your liking.
 
 # usage
-Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]"
+Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]" (Linux example) <br/>
+
+Optional usage:
+  -pm [Print Mode] : Displays every generated word on your cmd/terminal.
+  -s  [Seconds]    : Waits the amount of time inbetween each generation in seconds. 
+  -t  [List Type]  : Allows you to generate list to your liking. 
+         default/1 - all
+                 2 - numbers only
+                 3 - letters only
+                 4 - extra characters only
+  -h  [Hash]       : Prints chosen hash with each generation for data breach observation.
+                 1 - md5
+                 2 - md4
+                 3 - sha1
+                 4 - sha224
+                 5 - sha256
