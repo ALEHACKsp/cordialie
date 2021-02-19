@@ -25,6 +25,8 @@ Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOU
 Read the Cordialie guide installed with the repo for more information.<br/>
 Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" <br/>
 
+• Note that choosing a file that already exsit in the directory, will add onto it for list extension, and won't overwrite it.
+
 # installation
 Installing is very simple, with 2 different methods. <br/>
 1. "git clone https://github.com/9socket/cordialie.git".<br/>
