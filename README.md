@@ -8,7 +8,7 @@ This script does not perform any form of dictionary attack itself, but it's grea
 Cordialie was also designed to teach people an important aspect of Cyber Security.  And that heavly revolves around the passwords people use for any account.  Hopefully this 
 tool demostrates why it's a bad idea to use passwords containing personal information, as this script heavily takes advantage of that.  A good password would be considered as a string of random characters, 25+ letters long.  A password manager is a great option as well, theres no such thing as too many precautions when it comes to security.<br/>
 
-And obviously, this tool shouldn't be misued with the intent of attacking unathroized accounts or platforms.  No one but yourself is resonsible for misuse.
+And obviously, this tool shouldn't be misued with the intent of attacking unathroized accounts or platforms.  No one but yourself is resonsible for misuse.  This is made for penetration enviroments, where permission is granted.
 
 # features
 • Easy to read and edit source code. Every step is noted, and put into one .py file.<br/>
