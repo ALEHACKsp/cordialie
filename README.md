@@ -21,3 +21,4 @@ Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOU
 
 ![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)
 Read the Cordialie guide installed with the repo for more information.
+Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" (Linux example) <br/>
