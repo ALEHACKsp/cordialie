@@ -19,6 +19,6 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 # usage
 Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]" (Linux example) <br/>
 
-![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)
+![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)<br/>
 Read the Cordialie guide installed with the repo for more information.<br/>
-Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" (Linux example) <br/>
+Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" <br/>
