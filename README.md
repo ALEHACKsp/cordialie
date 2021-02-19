@@ -1,7 +1,7 @@
 ![alt text](https://github.com/9socket/cordialie/blob/logo/cordialielogo.png?raw=true)
 
 # cordialie
-Cordialie is a highly customizable and dynamic password profiler. Print hundreds to millions of possible combinations for a specific target easily, and efficiently. Usage is simple, with easy to edit open source code.  This script revolves around [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) and social engineering, as wordlist are based off of your targets personal information.
+Cordialie is a highly customizable and dynamic password profiler. Print hundreds to millions of possible combinations for a specific target easily, and efficiently. Usage is simple, with easy to edit open source code.  This script revolves around [OSINT](https://en.wikipedia.org/wiki/Open-source_intelligence) and [Social Engineering](https://en.wikipedia.org/wiki/Social_engineering_(security)), as wordlist are based off of your targets personal information.
 This script does not perform any form of dictionary attack itself, but it's great for building up a wordlist when you perform one in a pen-testing enviroment.
 
 # awareness
