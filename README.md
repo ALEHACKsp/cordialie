@@ -24,3 +24,8 @@ Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOU
 ![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)<br/>
 Read the Cordialie guide installed with the repo for more information.<br/>
 Example: "python3 cordialie.py -f target.txt -a 500000 -k 10" <br/>
+
+#installation
+Installing is very simple, with 2 different methods. <br/>
+1. "git clone https://github.com/9socket/cordialie.git".<br/>
+2. Simply just download the .zip file.
