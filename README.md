@@ -14,3 +14,6 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 • Generated list are dynamic, meaning you can choose to combine keywords with numbers only, letters only, etc.
 • Allows for a small varaity of hashes to print with each word, for possible data breach observation.
 • A load of small handy features, that may fit to your liking.
+
+# usage
+Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]
