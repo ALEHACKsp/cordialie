@@ -20,3 +20,4 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]" (Linux example) <br/>
 
 ![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)
+Read the Cordialie guide installed with the repo for more information.
