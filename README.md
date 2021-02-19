@@ -19,17 +19,4 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 # usage
 Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]" (Linux example) <br/>
 
-Optional usage:
-  -pm [Print Mode] : Displays every generated word on your cmd/terminal.<br/>
-  -s  [Seconds]    : Waits the amount of time inbetween each generation in seconds. <br/>
-  -t  [List Type]  : Allows you to generate list to your liking. <br/>
-         default/1 - all<br/>
-                 2 - numbers only<br/>
-                 3 - letters only<br/>
-                 4 - extra characters only<br/>
-  -h  [Hash]       : Prints chosen hash with each generation for data breach observation.<br/>
-                 1 - md5<br/>
-                 2 - md4<br/>
-                 3 - sha1<br/>
-                 4 - sha224<br/>
-                 5 - sha256
+![Usage](https://github.com/9socket/cordialie/blob/main/Images/CordialieUsage.png)
