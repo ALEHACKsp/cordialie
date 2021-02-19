@@ -16,4 +16,4 @@ tool demostrates why it's a bad idea to use passwords containing personal inform
 • A load of small handy features, that may fit to your liking.
 
 # usage
-Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]
+Minimum usage: "python3 cordialie.py -f [FILE] -a [LIST AMOUNT] -k [KEYWORD AMOUNT]"
