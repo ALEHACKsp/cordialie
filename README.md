@@ -33,3 +33,7 @@ Installing is very simple, with 2 different methods. <br/>
 2. Simply just download the .zip file.<br/>
 
 And just incase you haven't realized, python is also required to run this script. [Download Python](https://www.python.org/downloads/)
+
+# code
+As mentioned earlier, Cordialie is open source, and easy to edit. Each step is noted, and the script is 214 lines in total (including notes/gaps) <br/>
+Line 105 is where the combos are defined for the list, so if you want any of your own added, define the variable, and put it in the list 'combos'.
