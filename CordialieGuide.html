@@ -1,0 +1,57 @@
+<html>
+	<head>
+		<title> Cordialie Manual </title>
+
+		<h1> Cordialie Manual</h1>
+		<hr />
+	</head>
+
+	<body>
+		<p> • Author: 9socket </p>
+		<p> • Github: <a href="https://github.com/9socket">9socket</a> </p>
+		<p> • Programmed in: <a href="https://www.python.org/">Python</a> </p>
+		<hr />
+
+		<h1> Cordialie Modules </h1>
+		<p> • Argparse- Parser for command-line options, arguments and sub-commands. <p>
+		<p> • Random- Generate pseudo-random numbers. <p>
+		<p> • Time- Time access and conversions. <p>
+		<p> • Hashlib- Secure hashes and message digests. <p>
+		<p> • Datetime- Basic date and time types. <p>
+		<hr />
+		
+		<h1> What is Cordialie? </h1>
+		<p> Cordialie is a .py script to automate password profiling.  It's highly dynamic and customizable, while being efficent and fast.</p>
+		<p> It's mainly more efficent towards specific targets/websites/companies, and relies on OSINT and social engineering. </p>
+	  	<p> It takes advantage of passwords with personal information, like "JohnSmith31" for example. </p>
+		<p> Even though this script does not directly launch any dictionary attacks, its purpose is to build up wordlist for penetration testing. </p>
+		<p> Hopefully this goes to show as a big example why personal information shouldn't be used in any password, and to practice basic saftey online. </p>
+		<hr />
+
+		<h1> Cordialie Usage </h1>
+		<p> As mentioned earlier, Cordialie uses Argparse to set in its commands. There is a required set of arguements, then there are optional ones. </p>
+		<h2> required: </h2>
+		<p> Cordialie has a simple usage. It only takes 3 arguements to run. "cordialie.py -f (filename) -a (list amount) -k (keyword amount)". </p>
+		<p> Lets take a look at what each arguement does. </p>
+		<p> First, the file is defined. This is where the list gets printed to, and will most likley be in the form of a .txt file.
+		<p> Next, you specify the list amount. This defines how many words you want generated on your list. So if you do "-a 1000", you'll get a thousand words.
+		<p> If you do a large amount, like over a million for example, it may take a little longer then usual, but it'll work out fine.
+		<p> Last, we need to tell it the keyword amount. This is how many keywords you want to specify for the generated list. This is where OSINT and social engineering comes in.
+		<p> Thats it! All you need to run it, are those 3 simple arguements. So in the end it may look something like, "cordialie.py -f target.txt -a 100000 -k 10".
+
+		<h2> optional: </h2>
+		<p> Cordialie comes with optional arguements as well, to make the script more suited for different needs. Lets take a look and see what they are.
+		<p> • -t [LIST TYPE] : This defines the list type for your generations. By default, keywords generate with all characters, but using this indexes specific list.
+		<p>   For example, if you wanted to use numbers only, you would do '-t 2'. 
+		<p> • -s [SECONDS] : This defines time in between each generation. There's no real use for this, but everyone has their own reasons.
+		<p> • -hs [HASH] : This prints a hash along with your generation for possible data breach observation. If I wanted to compare MD5 with my list i would do, '-hs 1'
+
+	</body>
+
+
+
+
+
+
+
+</html>
